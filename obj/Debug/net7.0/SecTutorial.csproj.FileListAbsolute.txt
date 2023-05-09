@@ -1,0 +1,15 @@
+C:\Tutorial\SecTutorial\bin\Debug\net7.0\SecTutorial.exe
+C:\Tutorial\SecTutorial\bin\Debug\net7.0\SecTutorial.deps.json
+C:\Tutorial\SecTutorial\bin\Debug\net7.0\SecTutorial.runtimeconfig.json
+C:\Tutorial\SecTutorial\bin\Debug\net7.0\SecTutorial.dll
+C:\Tutorial\SecTutorial\bin\Debug\net7.0\SecTutorial.pdb
+C:\Tutorial\SecTutorial\obj\Debug\net7.0\SecTutorial.csproj.AssemblyReference.cache
+C:\Tutorial\SecTutorial\obj\Debug\net7.0\SecTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutorial\SecTutorial\obj\Debug\net7.0\SecTutorial.AssemblyInfoInputs.cache
+C:\Tutorial\SecTutorial\obj\Debug\net7.0\SecTutorial.AssemblyInfo.cs
+C:\Tutorial\SecTutorial\obj\Debug\net7.0\SecTutorial.csproj.CoreCompileInputs.cache
+C:\Tutorial\SecTutorial\obj\Debug\net7.0\SecTutorial.dll
+C:\Tutorial\SecTutorial\obj\Debug\net7.0\refint\SecTutorial.dll
+C:\Tutorial\SecTutorial\obj\Debug\net7.0\SecTutorial.pdb
+C:\Tutorial\SecTutorial\obj\Debug\net7.0\SecTutorial.genruntimeconfig.cache
+C:\Tutorial\SecTutorial\obj\Debug\net7.0\ref\SecTutorial.dll
