@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u+So9DDp0R2T2qhVsRioJsdbCCj8jtuzwcXEYNhMhqkBlT1uspsasqbsNQeqwY4CnuiyYUPWB4A6ca40aNvZUw==",
+  "dgSpecHash": "HtLIRyURlFS1618EIQMKHVe6M1hh0L8jlHmRSNphgX+uUhF3I6Bgik0samTVzbbbuzHMgpf64OXFhtr3sDnYJA==",
   "success": true,
-  "projectFilePath": "C:\\Tutorial\\SecTutorial\\SecTutorial.csproj",
+  "projectFilePath": "c:\\Tutorial\\SecTutorial\\SecTutorial.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

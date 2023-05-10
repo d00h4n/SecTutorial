@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Tutorial\\SecTutorial\\SecTutorial.csproj": {}
+    "c:\\Tutorial\\SecTutorial\\SecTutorial.csproj": {}
   },
   "projects": {
-    "C:\\Tutorial\\SecTutorial\\SecTutorial.csproj": {
+    "c:\\Tutorial\\SecTutorial\\SecTutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Tutorial\\SecTutorial\\SecTutorial.csproj",
+        "projectUniqueName": "c:\\Tutorial\\SecTutorial\\SecTutorial.csproj",
         "projectName": "SecTutorial",
-        "projectPath": "C:\\Tutorial\\SecTutorial\\SecTutorial.csproj",
+        "projectPath": "c:\\Tutorial\\SecTutorial\\SecTutorial.csproj",
         "packagesPath": "C:\\Users\\Formulatrix\\.nuget\\packages\\",
-        "outputPath": "C:\\Tutorial\\SecTutorial\\obj\\",
+        "outputPath": "c:\\Tutorial\\SecTutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Formulatrix\\AppData\\Roaming\\NuGet\\NuGet.Config"
